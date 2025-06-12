@@ -7,7 +7,7 @@ The goal was to better understand how phishing campaigns are created, launched, 
 I used **Gophish** along with **Localtonet** to ensure that the phishing mail could be accessed outside my localhost. 
 I created the campaign with custom email and landing page templates.
 
-## Tools & Technologies
+## 🛠 Tools & Technologies
 
 - [Gophish](https://sourceforge.net/projects/gophish.mirror/)
 - Localtonet (for exposing localhost)
@@ -33,6 +33,6 @@ I created the campaign with custom email and landing page templates.
 - Using Gophish to manage phishing campaigns and track user activity
 - Exposing a local server securely using Localtonet
 
-## Disclaimer
+## ⚠️Disclaimer
 This project is for educational purposes only and should be used ethically and legally.
 Unauthorized phishing or use against real targets without permission is illegal and unethical.
